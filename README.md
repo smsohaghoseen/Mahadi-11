@@ -28,7 +28,7 @@ $ python2 Mahadi-11.py
 
 ## Bangladeshi OLD - 10-22
 
-$ Python2 BD-11.sh
+$ Python2 BD-11.py
 
 ## Username - Mahadi
 
