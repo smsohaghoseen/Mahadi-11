@@ -12,16 +12,14 @@ pip2 install mechanize
 
 pip2 install requests
 
-## Run
-
-## BBangladeshi - 14-22
+# Bangladeshi - 14-22
 git clone https://github.com/MAHADI-143/Mahadi-11
 
 ls && cd Mahadi-11 && ls
 
 python2 Mahadi-11.py
 
-## Bangladeshi OLD - 10-22
+# Bangladeshi OLD - 10-22
 
 git clone https://github.com/MAHADI-143/Mahadi-11
 
