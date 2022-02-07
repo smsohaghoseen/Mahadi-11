@@ -22,14 +22,14 @@ $ cd Mahadi-11
 
 $ ls
 
-Bangladeshi ID - 14-22
+## Bangladeshi ID - 14-22
 
-python2 Mahadi-11.py
+$ python2 Mahadi-11.py
 
-Bangladeshi OLD - 10-22
+## Bangladeshi OLD - 10-22
 
 $ Python2 BD-11.sh
 
-Username - Mahadi
+## Username - Mahadi
 
-Password - Hasan
+## Password - Hasan
