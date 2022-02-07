@@ -14,7 +14,7 @@ pip2 install requests
 
 ## Run
 
-## BANGLADESH - 14-22
+## BBangladeshi - 14-22
 git clone https://github.com/MAHADI-143/Mahadi-11
 
 ls && cd Mahadi-11 && ls
